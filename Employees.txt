@@ -1,0 +1,4 @@
+Kutman:Eshenkulov:Male:12.07.2002:kutman.stel@gmail.com:+48123456789:Java Developer Intern:6380:False:20000
+kutman:eshenkulov:Female:31.12.2020:kutman@:+123456789:IOS Developer:3195:False:111111
+Kutman:eshenkulov:Male:31.12.2020:kutman@:1234567879:IOS Developer:7729:False:110000
+asdf:asdf:Female:31.12.2020:as@:12123123123:Java Developer Intern:6838:False:123
